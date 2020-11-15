@@ -5,7 +5,7 @@ Monkey Mass Reporter For Discord reports a user on Discord massively (that's wha
 This tool was developed to demonstrate and prove Zac aka thinking monkey that I do have coding skills ;0
 
 ## Preview
-![](https://gyazo.com/c2fe6fe835cbd4f14efcfea47a3565c4)
+![](https://gph.is/g/4DeWoRp)
 
 ## Usage/Requirements
 - Python 3.8 or above is required.
